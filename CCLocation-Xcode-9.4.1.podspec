@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = 'CCLocation-Xcode-9.4.1'
-  s.version               = '2.0.6'
+  s.version               = '2.0.7'
   s.summary               = 'The CrowdConnected colocator iOS library'
   s.homepage              = 'https://github.com/crowdconnected/colocator-ios-xcode-9.4.1.git'
   s.social_media_url      = 'https://twitter.com/crowdconnected'
